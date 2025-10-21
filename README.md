@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Zhengyuan Li
 
-<!--
-**KENNETH1005-zy/KENNETH1005-zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Electrical and Computer Engineering @ Boston University  
+💻 Passionate about Software Engineering, Cloud Systems, and AI Applications  
+🚀 Currently working on: [Viz-TrinoFed](https://github.com/EC528-Fall-2025/Viz-TrinoFed)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Java, Python, C++, SQL
+- **Frameworks:** Spring Boot, React, Docker
+- **Databases:** MySQL, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KENNETH1005-zy&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zhengyuan-li-1908a3326)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/KENNETH1005-zy)
