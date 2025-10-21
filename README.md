@@ -61,7 +61,7 @@
 
 ✨ Love collaborating on open-source tools and university research  
 ⚡ Currently exploring cloud infrastructure and AI-powered automation  
-🎵 Piano performance is my creative outlet outside engineering  
+🎵 Guitar performance is my creative outlet outside engineering  
 
 ---
 
