@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1C71D8&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Cloud+Systems;Full+Stack+Development+%7C+RAG+%26+LLM+Applications;Building+Scalable+Distributed+Systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1C71D8&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Cloud+Systems;Full-Stack+Development+%7C+RAG+%26+LLM+Applications;Building+Scalable+Distributed+Systems" alt="Typing SVG">
 </p>
 
 ---
